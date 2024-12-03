@@ -1,7 +1,10 @@
 
 <h1 align="center">Hi there, I'm <a href="[https://daniilshat.ru/](https://www.linkedin.com/in/%D1%83%D0%BB%D1%83%D0%B3%D0%B1%D0%B5%D0%BA-%D1%85%D0%B0%D0%BA%D0%B8%D0%BC%D0%BE%D0%B2-3660b12b7/)" target="_blank">Ulugbek</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+computer+science+student+and+developer+from+Uzbekistan" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=I'm+computer+science+student+;And+developer+from+Uzbekistan" alt="Typing SVG" /></a>
+<br>
+<br>
+<h1>About me </h1>
 <!--
 **MrSmokeUz/MrSmokeUz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
